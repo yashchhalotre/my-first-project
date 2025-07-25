@@ -1,5 +1,5 @@
 import { useGSAP } from "@gsap/react";
-import ClipPathTitle from "../Components/ClipPathTitle";
+import ClipPathTitle from "../components/ClipPathTitle";
 import gsap from "gsap";
 import VideoPinSection from "../components/VideoPinSection";
 
